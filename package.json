@@ -1,0 +1,24 @@
+{
+  "name": "your-blog",
+  "version": "1.0.0",
+  "description": "My Js Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanialEdil/Your-Blog.git"
+  },
+  "keywords": [
+    "js",
+    "blog",
+    "javascript"
+  ],
+  "author": "Edilev Danial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanialEdil/Your-Blog/issues"
+  },
+  "homepage": "https://github.com/DanialEdil/Your-Blog#readme"
+}
